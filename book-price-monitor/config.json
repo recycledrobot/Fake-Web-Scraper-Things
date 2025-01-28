@@ -1,0 +1,5 @@
+{
+    "base_url": "https://books.toscrape.com/catalogue/",
+    "check_interval": 6,
+    "email_subject": "Books Below Asking Price"
+}
